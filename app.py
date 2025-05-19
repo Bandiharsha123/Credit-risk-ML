@@ -6,7 +6,7 @@ import numpy as np
 model = joblib.load("credit_risk_model.pkl")
 
 # Streamlit app UI
-st.title("🧮 Credit Risk Assessment")
+st.title("🧮 Harsha Credit Risk Assessment")
 
 st.write("Provide customer details to assess credit risk.")
 
